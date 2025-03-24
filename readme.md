@@ -10,6 +10,9 @@ This is a small script, that will:
   - Query the database for different information
   - create a plot out of it and save it as img
   - post the img on bluesky
+
+If you want to see the result, check out the account:
+https://bsky.app/profile/shotbot.bsky.social
   
 ## How do I use it?
 
